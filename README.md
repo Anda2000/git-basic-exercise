@@ -1,1 +1,3 @@
-Anda Lucky!!
+Anda!
+Lucky!!
+Pika!!!!
