@@ -1,3 +1,1 @@
-Anda!
-Lucky!!
-Pika!!!!
+booya
