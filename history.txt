@@ -1,0 +1,390 @@
+    1  clear
+    2  clear
+    3  ls
+    4  cd Desktop/
+    5  cd git-basic-exercises/
+    6  git init
+    7  git add .
+    8  git status
+    9  git commit -m "first exercise"
+   10  git branch -M main
+   11  git remote add origin https://github.com/Anda2000/git-basic-exercises.git
+   12  git push -u origin main
+   13  clear
+   14  ls
+   15  cd Desktop/
+   16  cd Exercises/
+   17  ls-a
+   18  clear
+   19  ls -a
+   20  git init
+   21  ls -a
+   22  git status
+   23  touch README.md
+   24  ls -a
+   25  git status
+   26  git log
+   27  git add
+   28  git add .
+   29  git status
+   30  git reset
+   31  git status
+   32  git commit -m "initial commit"
+   33  git log
+   34  nano README.md
+   35  cat README.md
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m "second commit"
+   40  git reset
+   41  git add .
+   42  git status
+   43  git commit -m "third commit"
+   44  git add .
+   45  git status
+   46  git commit -m "third commit"
+   47  git log
+   48  clear
+   49  cd Desktop/
+   50  cd Anda
+   51  ls -a
+   52  python --version
+   53  python3 --version
+   54  sudo apt install python3-pil
+   55  python3
+   56  clear
+   57  sudo apt install python3-pip
+   58  pip3 install pandas
+   59  python3
+   60  clear
+   61  chmod 600 ~/Downloads/qwikLABS-L2386-24075798.pem 
+   62  ssh -i ~/Downloads/qwikLABS-L2386-24075798.pem student-01-9d5b57543558@34.69.120.202
+   63  nano health_checks.py
+   64  nano health_checks.py
+   65  nano health_checks.py
+   66  chmod 600 ~/Downloads/qwikLABS-L2386-24075798.pem 
+   67  ssh -i ~/Downloads/qwikLABS-L2386-24075798.pem student-01-9d5b57543558@34.69.120.202
+   68  git clone https://github.com/Umuzi-org/Anda-Pika-606-tilde-project-tutorial-how-repo-projects-work-.git
+   69  ls
+   70  cd Anda-Pika-606-tilde-project-tutorial-how-repo-projects-work-/
+   71  clear
+   72  nano HowRepoWork.md 
+   73  git add .
+   74  git commit -m "continuation of repo"
+   75  git push
+   76  nano HowRepoWork.md 
+   77  mkdir Basic-exercise
+   78  cd Basic-exercise/
+   79  ls -a
+   80  git init
+   81  ls -a
+   82  git status
+   83  touch README.md
+   84  ls -a
+   85  git status
+   86  git log
+   87  git add .
+   88  git status
+   89  git reset HEAD^
+   90  git reset --
+   91  git status
+   92  git add .
+   93  git status
+   94  git commit -m "initial commit"
+   95  git log
+   96  nano README.md
+   97  cat README.md
+   98  git status
+   99  git add .
+  100  git commit -m "second commit"
+  101  nano README.md
+  102  cat README.md
+  103  git add .
+  104  git commit -m "Third commit"
+  105  git log
+  106  8a8ea0714f5a2a84f880ee595471eb56b236eeff
+  107  git checkout 8a8ea0714f5a2a84f880ee595471eb56b236eeff
+  108  cat README.md
+  109  git checkout main
+  110  cat README.md
+  111  git branch
+  112  git checkout -b "milkshake-flavours"
+  113  git branch
+  114  git branch
+  115  nano milkshakes.md
+  116  git status
+  117  git add .
+  118  git commit -m "added initial flavours"
+  119  git log
+  120  nano README.md
+  121  cat README.md
+  122  git add .
+  123  git commit -m "Third commit"
+  124  git log
+  125  git checkout -b "history"
+  126  git log
+  127  git branch
+  128  history > history.txt
+  129  git add .
+  130  git commit -m "added history"
+  131  git log
+  132  git checkout 5e253c1d1fdc85534073055abcd96d250a153f16
+  133  git checkout f302c17edc366d9ec8d1b6def67a8099a310630a 
+  134  nano history.txt 
+  135  git add .
+  136  git commit -m "random readme changes"
+  137  git checkout history.txt 
+  138  cat README.md
+  139  rm README.md
+  140  echo "booya" > README.md
+  141  git commit -m "rewrote readme"
+  142  rm README.md
+  143  echo "booya" > README.md
+  144  git add .
+  145  git commit -m "rewrote readme"
+  146  git checkout
+  147  git checkout main
+  148  ls
+  149  git log
+  150  git checkout milkshake-flavours
+  151  ls
+  152  git log
+  153  git checkout history
+  154  ls
+  155  git log
+  156  git checkout main
+  157  git merge milkshake-flavours
+  158  ls
+  159  git log
+  160  git checkout main
+  161  git merge history
+  162  ls
+  163  git log
+  164  git checkout history
+  165  git log
+  166  git checkout milkshake-flavours
+  167  git log
+  168  git checkout Y
+  169  git merge X
+  170  git checkout history
+  171  git merge history
+  172  git checkout main
+  173  git log
+  174  git init
+  175  git add .
+  176  git commit -m "exercise"
+  177  git branch -M main
+  178  git remote add origin https://github.com/Anda2000/basic-exercise.git
+  179  git push -u origin main
+  180  ￼
+  181  anda
+  182  ￼
+  183  anda
+  184  ￼
+  185  anda
+  186  ￼
+  187  anda
+  188  ￼
+  189  anda
+  190  ￼
+  191  anda
+  192  ￼
+  193  anda
+  194  ￼
+  195  anda
+  196  ￼
+  197  anda
+  198  ￼
+  199  chmod 600 ~/Downloads/qwikLABS-L2383-24128214.pem 
+  200  ssh -i ~/Downloads/qwikLABS-L2383-24128214.pem student-02-1294e6ec454c@35.224.48.117
+  201  chmod 600 ~/Downloads/qwikLABS-L2383-24129990.pem 
+  202  ssh -i ~/Downloads/qwikLABS-L2383-24129990.pem student-02-1e59aa8a4257@104.154.230.165
+  203  chmod 600 ~/Downloads/qwikLABS-L2383-24129990.pem 
+  204  ssh -i ~/Downloads/qwikLABS-L2383-24129990.pem student-02-1e59aa8a4257@104.154.230.165
+  205  chmod 600 ~/Downloads/qwikLABS-L2383-24129990.pem 
+  206  ssh -i ~/Downloads/qwikLABS-L2383-24129990.pem student-02-1e59aa8a4257@104.154.230.165
+  207  chmod 600 ~/Downloads/qwikLABS-L2383-24132693.pem 
+  208  ssh -i ~/Downloads/qwikLABS-L2383-24132693.pem student-04-572692d97e40@34.66.238.221
+  209  chmod 600 ~/Downloads/qwikLABS-L2386-24132973.pem 
+  210  ssh -i ~/Downloads/qwikLABS-L2386-24132973.pem student-00-d13df0e1216d@35.225.30.237
+  211  chmod 600 ~/Downloads/qwikLABS-L2386-24132973.pem 
+  212  ssh -i ~/Downloads/qwikLABS-L2383-24132693.pem student-04-572692d97e40@34.66.238.221
+  213  chmod 600 ~/Downloads/qwikLABS-L2386-24132973.pem 
+  214  ssh -i ~/Downloads/qwikLABS-L2386-24132973.pem student-00-d13df0e1216d
+  215  ssh -i ~/Downloads/qwikLABS-L2386-24132973.pem student-00-d13df0e1216d@35.225.30.237
+  216  chmod 600 ~/Downloads/qwikLABS-L2379-24138650.pem 
+  217  ssh -i ~/Downloads/qwikLABS-L2379-24138650.pem student-00-aa5c85cb7a33@34.123.151.161
+  218  chmod 600 ~/Downloads/qwikLABS-L2379-24138650.pem 
+  219  ssh -i ~/Downloads/qwikLABS-L2379-24138650.pem student-00-aa5c85cb7a33@34.123.151.161
+  220  chmod 600 ~/Downloads/qwikLABS-L2386-24139293.pem 
+  221  ssh -i ~/Downloads/qwikLABS-L2386-24139293.pem student-02-1ffb46c6aff9@34.70.122.232
+  222  chmod 600 ~/Downloads/qwikLABS-L2380-24159293.pem 
+  223  ssh -i ~/Downloads/qwikLABS-L2380-24159293.pem student-04-53f0af207212@35.238.173.230
+  224  sudo snap install whatsapp-for-linux
+  225  git clone https://github.com/Umuzi-org/Anda-Pika-429-bootcamp-writing-assignment-markdown.git
+  226  cd Anda-Pika-429-bootcamp-writing-assignment-markdown/
+  227  ls
+  228  cd ..
+  229  git clone https://github.com/Umuzi-org/Anda-Pika-429-bootcamp-writing-assignment-markdown.git
+  230  cd Anda-Pika-429-bootcamp-writing-assignment-markdown/
+  231  nano My-History.md
+  232  cd Desktop/
+  233  cd git-basic-exercises/
+  234  ls
+  235  touch ignore-me.db
+  236  git status
+  237  nano .gitignore
+  238  git status
+  239  touch ignore-me.db
+  240  git status
+  241  git add .
+  242  nano .gitignore
+  243  nano .gitignore
+  244  git status
+  245  mkdir large-directory-that-should-be-local-only
+  246  cd large-directory-that-should-be-local-only/
+  247  nano readme.md
+  248  cd ..
+  249  git status
+  250  nano .gitignore
+  251  git status
+  252  git add .gitignore
+  253  git commit -m "added .gitignore"
+  254  git push
+  255  git clone https://github.com/Anda2000/basic-exercise.git
+  256  cd ..
+  257  cd ..
+  258  git clone https://github.com/Anda2000/basic-exercise.git
+  259  cd Desktop/
+  260  ls
+  261  cd Desktop/
+  262  cd basic-exercises/
+  263  touch ignore-me.db
+  264  git status
+  265  nano .gitignore
+  266  ignore-me.db
+  267  git push
+  268  git clone https://github.com/Anda2000/basic-exercise.git
+  269  ls
+  270  cd Desktop/
+  271  ls
+  272  cd basic-exercises/
+  273  git push
+  274  mkdir git-basic-exercise
+  275  cd git-basic-exercise/
+  276  git init
+  277  touch README.md
+  278  git add .
+  279  git commit -m "initial commit"
+  280  nano README.md
+  281  cat README.md 
+  282  git add .
+  283  git commit -m "second commit"
+  284  nano README.md 
+  285  git add .
+  286  git commit -m "third commit"
+  287  git log
+  288  git checkout fab8bcacb74a51edd530a26aa93e58211cfd7d5f
+  289  git checkout master
+  290  git branch
+  291  git checkout -b milkshake-flavours
+  292  nano milkshakes.md
+  293  git add .
+  294  git commit -m "added initial flavours"
+  295  git checkout master
+  296  git checkout -b histoty
+  297  history > history.txt
+  298  git add .
+  299  git commit -m "added history"
+  300  git branch
+  301  git checkout milkshake-flavours
+  302  ls
+  303  nano README.md
+  304  git add .
+  305  git commit -m "random readme changes"
+  306  git checkout history
+  307  cat README.md
+  308  rm README.md
+  309  echo "booya" > README.md
+  310  git add .
+  311  git commit -m "rewrote readme"
+  312  git checkout master
+  313  ls
+  314  git log
+  315  git checkout milkshake-flavours
+  316  ls
+  317  git log
+  318  cd git-basic-exercise/
+  319  git checkout history
+  320  ls
+  321  git checkout milkshake-flavours
+  322  ls
+  323  git log
+  324  mkdir git-basic-exercises
+  325  cd git-basic-exercises/
+  326  ls -a
+  327  git init
+  328  ls -a
+  329  git status
+  330  touch README.md
+  331  ls -a
+  332  git status
+  333  git log
+  334  git add .
+  335  git status
+  336  git reset
+  337  git status
+  338  git add .
+  339  git commit -m "initial commit"
+  340  git log
+  341  nano README.md
+  342  cat README.md
+  343  git status
+  344  git add .
+  345  git commit -m "second commit"
+  346  nano README.md
+  347  git add .
+  348  git commit -m "third commit"
+  349  git log
+  350  git checkout 1fd6a6f0e481958fe88eb53f240f1cbebc269f40
+  351  cat README.md
+  352  git checkout main
+  353  cat README.md
+  354  git branch
+  355  git checkout -b "milkshake-flavours"
+  356  git branch
+  357  git checkout milkshake-flavours
+  358  git branch
+  359  nano milkshakes.md
+  360  git status
+  361  git add .
+  362  git commit -m "added initial flavours"
+  363  git log
+  364  git checkout main
+  365  git checkout -b history
+  366  git log
+  367  git checkout main
+  368  mkdir git-basic-exercise
+  369  cd git-basic-exercise/
+  370  git init
+  371  touch README.md
+  372  git add .
+  373  git commit -m "initial commit"
+  374  nano README.md
+  375  git add .
+  376  git commit -m "second commit"
+  377  nano README.md
+  378  git add .
+  379  git commit -m "third commit"
+  380  git log
+  381  git checkout 53539046c80c279d2f108d134fca8b08ede79812
+  382  git checkout master
+  383  git branch
+  384  git checkout -b milkshake-flavours
+  385  nano milkshakes.md
+  386  git add .
+  387  git commit -m "added initial flavours"
+  388  git checkout master
+  389  git checkout -b history
+  390  history > history.txt
