@@ -1,3 +1,3 @@
 Anda!
-Lucky!!
-Pika!!!!
+The Lucky man from!!
+Pika family !!!!
