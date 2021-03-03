@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Anda!
-The Lucky man from!!
-Pika family !!!!
+Lucky !!
+Pika!!!!
 =======
 booya
 >>>>>>> history
